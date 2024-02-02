@@ -15,7 +15,7 @@
   <img align="center" alt="Brenda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Brenda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Brenda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Bre-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/846894151366344725/942241515969867806/Webp.net-gifmaker.gif">
+  <img align="right" alt="Bre-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/846894151366344725/1203019831885037608/gifmaker_me.gif?ex=65cf9286&is=65bd1d86&hm=158cef51043ea6c9936c9fff9b1eedab7917593ca86d81c11b90903d5a255d2d&=&width=676&height=676">
 </div>
   
   ##
