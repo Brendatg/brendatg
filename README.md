@@ -1,9 +1,9 @@
 ## Olá eu sou a Brenda Gonçalves
 
-- 🔭 Atualmente faço Engenharia de Software
+- 🎓 Formada em Marketing
 - 👩‍💻 Participei do Desenvolve 2022
-- 🌱 Aprimorando minha Lógica de Programação, mas sei o básico de HTML, CSS e Javascript.
-- 📫 Contate-me no email: brendahgoncalves2013@gmail.com
+- 🌱 Aprimorando minha análise de dados em Python, Power BI.
+- 📫 Contate-me no email: brendatmkt@gmail.com
 - 😄 Ela/dela
 
 <div align="center">
@@ -21,10 +21,10 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/brenda.tgg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/brendatmkt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/Haile_din" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:brendahgoncalves2013@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brenda-gonçalves-teixeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:brendatmkt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/brenda-teixeira-mkt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://open.spotify.com/user/i6250aoxj28tdp1mk7f20rnz9" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   
   
